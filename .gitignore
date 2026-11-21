@@ -1,5 +1,9 @@
 Copy_of_ASIKON_Mall_Customer_Segmentation.ipynb
 ASIKON_Mall_Customer_Segmentation_FINAL.ipynb
+Beginner_ML_Project_Paper_Writing_Guidelines.pdf
+clustering_results_summary.csv
+customer_segments.csv
+push_to_github.bat
 *.tmp
 .ipynb_checkpoints/
 __pycache__/
